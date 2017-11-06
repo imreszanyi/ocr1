@@ -1,2 +1,5 @@
 *.h5
+.idea
+*.png
+*.jpg
 

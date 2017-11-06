@@ -8,8 +8,8 @@ from keras import backend as K
 img_width, img_height = 150, 150
 train_data_dir = 'training'
 validation_data_dir = 'evaluation'
-nb_train_samples = 1500
-nb_validation_samples = 500
+nb_train_samples = 2000
+nb_validation_samples = 1000
 epochs = 10
 batch_size = 16
 
